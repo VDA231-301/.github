@@ -9,7 +9,7 @@ The current version of the official VDA 231-301 document can be found in the VDA
 # Main Repository
 **VDA231-301:** https://github.com/VDA231-301/VDA231-301
 
-## Creating new sub-schemas
+# Creating new sub-schemas
 See the **guidelines  for creating sub-schemas**:
 - [English](https://github.com/VDA231-301/VDA231-301/blob/main/docs/guidelines_for_creating_subschemas_VDA231-301_en.md)
 - [German](https://github.com/VDA231-301/VDA231-301/blob/main/docs/guidelines_for_creating_subschemas_VDA231-301_de.md)
