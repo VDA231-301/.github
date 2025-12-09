@@ -1,6 +1,7 @@
 # VDA 231-301 JSON Schema Repository
 
-**A structured approach to standard compliance using JSON Schema**  
+**Consistent and transparent representation of specific requirements of standards in JSON schema**
+----
 Welcome to the **VDA 231-301 JSON Schema Repository** the official home for the JSON schema standard for the digital exchange of material test results. This repository provides specifications and examples for implementing standards using the JSON Schema format. Its purpose is to ensure a consistent, transparent, and maintainable structure for representing standard requirements across different use cases.
 
 This repository is maintained as part of the VDA initiative to enable an open, collaborative standard that supports various industry needs.
@@ -12,7 +13,7 @@ Developed jointly by the German Association of the Automotive Industry (www.vda.
 
 ## Language Requirement
 
-English is the preferred language for all content, but it is not mandatory. German descriptions can be added if necessary.
+English is the preferred language for all content, but it is not mandatory. German can be added.
 
 ---
 # Contents
