@@ -11,7 +11,8 @@ Developed jointly by the German Association of the Automotive Industry (www.vda.
 **DISCLAIMER**: We are constantly working to improve the VDA 231-301. The current version of the official VDA 231-301 document can be found in the VDA Webshop. ([German](https://webshop.vda.de/VDA/de/vda-231-301-022025) / [English](https://webshop.vda.de/VDA/en/vda-231-301-022025)).It contains additional information about the standard that is not part of this repository.
 
 
-## Language Requirement
+
+**Language Requirement**
 
 English is the preferred language for all content, but it is not mandatory. German can be added.
 
