@@ -30,7 +30,6 @@ See the **guidelines  for creating sub-schemas**:
 **DISCLAIMER on Standard Copyright**: 
 The content and references in this repository are based on standards whose copyrights belong to the respective standardization organizations (e.g., DIN, ISO, VDA). Full standard texts must not be reproduced or published without permission. Please ensure you have the appropriate licenses.
 
----
 
 
 ## How to contribute
