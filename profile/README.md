@@ -17,9 +17,9 @@ English is the preferred language for all content, but it is not mandatory. Germ
 ---
 # Contents
 
-## Main Repository
-**VDA231-301:** https://github.com/VDA231-301/VDA231-301
+## How to contribute
 
+See the ["How to contribute" section](https://github.com/VDA231-301/VDA231-301/tree/main#how-to-contribute) in the main README.md file.
 
 ## Creating new sub-schemas
 See the **guidelines  for creating sub-schemas**:
@@ -30,8 +30,7 @@ See the **guidelines  for creating sub-schemas**:
 **DISCLAIMER on Standard Copyright**: 
 The content and references in this repository are based on standards whose copyrights belong to the respective standardization organizations (e.g., DIN, ISO, VDA). Full standard texts must not be reproduced or published without permission. Please ensure you have the appropriate licenses.
 
+## Main Repository
+**VDA231-301:** https://github.com/VDA231-301/VDA231-301
 
 
-## How to contribute
-
-See the ["How to contribute" section](https://github.com/VDA231-301/VDA231-301/tree/main#how-to-contribute) in the main README.md file.
