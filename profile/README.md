@@ -1,6 +1,6 @@
 # VDA 231-301 JSON Schema Repository
 ----
-**Consistent and transparent representation of specific material requirements of standards in JSON schema**
+# **Consistent and transparent representation of specific material requirements of standards in JSON schema**
 ----
 Welcome to the **VDA 231-301 JSON Schema Repository** the official home for the JSON schema standard for the digital exchange of material test results. This repository provides specifications and examples for implementing standards using the JSON Schema format. Its purpose is to ensure a consistent, transparent, and maintainable structure for representing standard requirements across different use cases.
 
