@@ -81,8 +81,8 @@ See the **guidelines  for creating sub-schemas**:
 - **Can**: Optional requirements that are possible at any time, often defined by internal factory standards.  
 The JSON schema supports both variants and enables flexible implementation.
 
-### 4.4 Versioning of Subschemas
-Each subschema must have clear versioning. Use semantic versioning (e.g., `v1.0.0`) and document changes in the changelog. Changes to subschemas should only be made via pull requests to ensure consistency and traceability.
+### 4.4 Versioning of Schemas
+Each schema must have clear versioning. Use semantic versioning (e.g., `v1.0.0`) and document changes in the changelog. Changes to schemas should only be made via pull requests to ensure consistency and traceability.
 
 
 ## 5. Branching 
