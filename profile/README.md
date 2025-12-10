@@ -26,7 +26,7 @@ English is the preferred language for all content, but it is not mandatory. Germ
 3. Main Repository
 4. Sub-Schemas
 5. Branching 
-6. Information how to use and generate IDs
+6. Using and generating IDs
 
 ## 1. How to contribute
 
@@ -89,7 +89,7 @@ Each schema must have clear versioning. Use semantic versioning (e.g., `v1.0.0`)
 All examples must include the `if` condition to represent correct logic. Also ensure that `$ref` is present for references
 
 
-## 6. Information how to use and generate IDs
+## 6. Using and generating IDs
 
 IDs must be unique and stable. They are generated according to the pattern `<prefix>-<sequential-number>`. 
 - **Requirement:** Every referable object **MUST** carry an internal data ID in `_id`. Type is `string`, format **UUID v4** (RFC 4122).
