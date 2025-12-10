@@ -25,8 +25,9 @@ English is the preferred language for all content, but it is not mandatory. Germ
 2. Disclaimer
 3. Main Repository
 4. Sub-Schemas
-5. Branching 
-6. Using and generating IDs
+5. Versioning
+6. Branching 
+7. Using and generating IDs
 
 ## 1. How to contribute
 
@@ -81,15 +82,15 @@ See the **guidelines  for creating sub-schemas**:
 - **Can**: Optional requirements that are possible at any time, often defined by internal factory standards.  
 The JSON schema supports both variants and enables flexible implementation.
 
-### 4.4 Versioning of Schemas
+## 5. Versioning of Schemas
 Each schema must have clear versioning. Use semantic versioning (e.g., `v1.0.0`) and document changes in the changelog. Changes to schemas should only be made via pull requests to ensure consistency and traceability.
 
 
-## 5. Branching 
+## 6. Branching 
 All examples must include the `if` condition to represent correct logic. Also ensure that `$ref` is present for references
 
 
-## 6. Using and generating IDs
+## 7. Using and generating IDs
 
 IDs must be unique and stable. They are generated according to the pattern `<prefix>-<sequential-number>`. 
 - **Requirement:** Every referable object **MUST** carry an internal data ID in `_id`. Type is `string`, format **UUID v4** (RFC 4122).
