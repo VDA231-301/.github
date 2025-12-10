@@ -54,15 +54,26 @@ EN 10204
 
 **Currently, the following sub-schemas are under review**
 
-VDA 270
+- VDA 270
 
-VDA 278
+- VDA 278
 
-SEP 1240
+- SEP 1240
 
-VDA 275
+- VDA 275
 
 ## Creating new sub-schemas
 See the **guidelines  for creating sub-schemas**:
 - [English](https://github.com/VDA231-301/VDA231-301/blob/main/docs/guidelines_for_creating_subschemas_VDA231-301_en.md)
 - [German](https://github.com/VDA231-301/VDA231-301/blob/main/docs/guidelines_for_creating_subschemas_VDA231-301_de.md)
+
+## Information to using and generating IDs
+
+- **Requirement:** Every referable object **MUST** carry an internal data ID in `_id`. Type is `string`, format **UUID v4** (RFC 4122).
+- **Representation:** Lowercase, hyphenated UUID (e.g., `123e4567-e89b-12d3-a456-426655440000`).
+- **Stability & Uniqueness:** `_id` **MUST** be unique within a test report and **MUST NOT** be mutated after assignment.
+- **References:** Reference fields (e.g., `refId`, `instrumentRef`, `sampleRef`) **MUST** use the same type/format as `_id` (UUID v4).
+- **Validation:** JSON Schema validates structure/format, not referential integrity. Existence and uniqueness of `_id` **MUST** be enforced via build/CI checks.
+- **Reuse:** The base schema provides `$defs` for `UuidV4` and `UuidV4Ref`. Subschemas include them via `$ref`.
+
+
