@@ -1,14 +1,14 @@
 # VDA 231-301 JSON Schema Repository
 ----
-# **Consistent and transparent representation of specific material requirements of standards in JSON schema**
+# **Consistent and transparent representation of specific material requirements of standards and recommendations in JSON schema**
 ----
-Welcome to the **VDA 231-301 JSON Schema Repository** the official home for the JSON schema standard for the digital exchange of material test results. This repository provides specifications and examples for implementing standards using the JSON Schema format. Its purpose is to ensure a consistent, transparent, and maintainable structure for representing standard requirements across different use cases.
+Welcome to the **VDA 231-301 JSON Schema Repository** the official home for the JSON schema recomendation for the digital exchange of material test results. This repository provides recommendations and examples for implementing standards using the JSON Schema format. Its purpose is to ensure a consistent, transparent, and maintainable structure for representing standard requirements across different use cases.
 
-This repository is maintained as part of the VDA initiative to enable an open, collaborative standard that supports various industry needs.
+This repository is maintained as part of the VDA initiative to enable an open, collaborative recommendation that supports various industry needs.
 Developed jointly by the German Association of the Automotive Industry (www.vda.de), as well as the Institute for Engineering Design and Industrial Design (IKTD) at the University of Stuttgart (www.iktd.uni-stuttgart.de) and many contributors from the automotive industry.
 
 
-**DISCLAIMER**: We are constantly working to improve the VDA 231-301. The current version of the official VDA 231-301 document can be found in the VDA Webshop. ([German](https://webshop.vda.de/VDA/de/vda-231-301-022025) / [English](https://webshop.vda.de/VDA/en/vda-231-301-022025)). It contains additional information about the standard that is not part of this repository.
+**DISCLAIMER**: We are constantly working to improve the VDA 231-301. The current version of the official VDA 231-301 document can be found in the VDA Webshop. ([German](https://webshop.vda.de/VDA/de/vda-231-301-022025) / [English](https://webshop.vda.de/VDA/en/vda-231-301-022025)). It contains additional information about the recommendation that is not part of this repository.
 
 
 
