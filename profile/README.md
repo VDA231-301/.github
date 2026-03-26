@@ -119,9 +119,10 @@ Currently, the following sub‑schemas are officially released:
 
 The following sub‑schemas are currently under review:
 
-- VDA 270  
-- VDA 278  
-- SEP 1240  
+- VDA 270  https://github.com/VDA231-301/VDA_231-301__VDA_270
+- VDA 278  https://github.com/VDA231-301/VDA_231-301__VDA_278
+- SEP 1240 https://github.com/VDA231-301/VDA_231-301__SEP_1240
+- Substance Declaration https://github.com/VDA231-301/VDA_231-301__SubstanceDeclaration
 
 ---
 
