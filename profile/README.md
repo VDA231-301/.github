@@ -110,7 +110,9 @@ Each subschema covers a dedicated functional or regulatory domain.
 | Subschema Repository | Focus (EN) | Fokus (DE) |
 |---------------------|-----------|-----------|
 | **VDA 231‑300 – Generic**  
-https://github.com/VDA231-301/VDA231-300 | Generic core definitions and reusable model elements | Generische Basismodelle und wiederverwendbare Strukturen |
+https://github.com/VDA231-301/VDA231-300 | material and surface definition in 3D-models in jt | Material- und Oberflächendefinition in 3D-Modellen im jt |
+| **VDA 231‑301 – Generic**  
+https://github.com/VDA231-301/VDA231-301 | Generic core definitions and reusable model elements | Generische Basismodelle und wiederverwendbare Strukturen |
 | **Substance Declaration**  
 https://github.com/VDA231-301/Substance-Declaration | Structured substance and material composition data | Strukturierte Stoff‑ und Materialzusammensetzungen |
 | **VDA 275 – Formaldehyde**  
