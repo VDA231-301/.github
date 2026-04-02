@@ -8,7 +8,7 @@
 - [Modular Architecture](#-modular-concept-of-vda231301)
 - [Generic Schema](#generic-schema)
 - [Subschema Structure](#subschema-structure)
-- [Governance & VDA Context](#-governance--contribution))
+- [Governance & VDA Context](#-governance--contribution)
 - [Contribution & Collaboration](#contribution--collaboration)
 
 ---
