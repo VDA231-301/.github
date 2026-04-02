@@ -1,5 +1,16 @@
-# VDA 231‑301
-**Digital Material Data & Sampling Management Recommendation**
+# VDA 231‑301 – Digital Material Data Exchange
+
+**VDA 231‑301 provides a modular and standardized data model that enables reliable, machine‑readable exchange of material data between OEMs, suppliers, laboratories and IT systems, and is applicable beyond the automotive industry.**
+
+### Quick Navigation
+
+- [About VDA 231‑301](#about-vda-231-301)
+- [Modular Architecture](#modular-architecture)
+- [Generic Schema](#generic-schema)
+- [Subschema Structure](#subschema-structure)
+- [Technical Basis (JSON & Machine‑readable)](#technical-basis-json--machine-readable)
+- [Governance & VDA Context](#governance--vda-context)
+- [Contribution & Collaboration](#contribution--collaboration)
 
 ---
 
