@@ -9,7 +9,7 @@
 - [Generic Schema](#generic-schema)
 - [Subschema Structure](#subschema-structure)
 - [Technical Basis (JSON & Machine‑readable)](#technical-basis-json--machine-readable)
-- [Governance & VDA Context](#governance--vda-context)
+- [Governance & VDA Context](#-governance--contribution))
 - [Contribution & Collaboration](#contribution--collaboration)
 
 ---
