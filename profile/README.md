@@ -22,8 +22,7 @@ It is developed and maintained within the **VDA Project Group
 (https://www.vda.de)
 
 The development of the VDA 231‑301 data model was supported by scientific collaboration with  
-the **Institute for Engineering Design and Industrial Design (IKTD)**  
-at the **University of Stuttgart**  
+the **Institute for Engineering Design and Industrial Design (IKTD)**  at the **University of Stuttgart**  
 (https://www.iktd.uni-stuttgart.de).
 
 ## 🔄 Data Exchange & Interoperability
