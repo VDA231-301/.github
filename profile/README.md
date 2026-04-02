@@ -5,7 +5,7 @@
 ### Quick Navigation
 
 - [About VDA 231‑301](#about-vda-231-301)
-- [Modular Architecture](#modular-architecture)
+- [Modular Architecture](#-modular-concept-of-vda231301)
 - [Generic Schema](#generic-schema)
 - [Subschema Structure](#subschema-structure)
 - [Technical Basis (JSON & Machine‑readable)](#technical-basis-json--machine-readable)
