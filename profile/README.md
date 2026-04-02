@@ -6,8 +6,8 @@
 
 - [About VDA 231‑301](#about-vda-231-301)
 - [Modular Architecture](#-modular-concept-of-vda231301)
-- [Generic Schema](#generic-schema)
-- [Subschema Structure](#subschema-structure)
+- [Generic Schema](#-repository-overview)
+- [Subschema Structure](#-repository-overview)
 - [Governance & VDA Context](#-governance--contribution)
 - [Contribution & Collaboration](#contribution--collaboration)
 
