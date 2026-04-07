@@ -165,7 +165,7 @@ This provides **planning security for long‑term system integrations**.
 
 ## 📨 Contact & Support
 
-There is no individual support email.
+Discussions are intended for general questions and exchange. There is no individual support email.
 
 Support and discussions are provided via:
 - GitHub Issues
