@@ -117,17 +117,17 @@ https://github.com/VDA231-301/VDA231-300 | material and surface definition in 3D
 | **VDA 231‑301 – Generic**  
 https://github.com/VDA231-301/VDA231-301 | Generic core definitions and reusable model elements | Generische Basismodelle und wiederverwendbare Strukturen |
 | **Substance Declaration**  
-https://github.com/VDA231-301/Substance-Declaration | Structured substance and material composition data | Strukturierte Stoff‑ und Materialzusammensetzungen |
+https://github.com/VDA231-301/VDA_231-301__SubstanceDeclaration | Structured substance and material composition data | Strukturierte Stoff‑ und Materialzusammensetzungen |
 | **VDA 275 – Formaldehyde**  
-https://github.com/VDA231-301/VDA275 | Formaldehyde emission test data | Formaldehyd‑Emissionsprüfungen |
+https://github.com/VDA231-301/VDA_231-301__VDA_275 | Formaldehyde emission test data | Formaldehyd‑Emissionsprüfungen |
 | **VDA 278 – VOC / Fogging**  
-https://github.com/VDA231-301/VDA278 | VOC and fogging emission test data | VOC‑ und Fogging‑Emissionsdaten |
+https://github.com/VDA231-301/VDA_231-301__VDA_278 | VOC and fogging emission test data | VOC‑ und Fogging‑Emissionsdaten |
 | **VDA 270 – Odor**  
-https://github.com/VDA231-301/VDA270 | Odor assessment based on panel testing | Geruchsprüfungen mit Panelbewertung |
+https://github.com/VDA231-301/VDA_231-301__VDA_270 | Odor assessment based on panel testing | Geruchsprüfungen mit Panelbewertung |
 | **SEP 1240**  
-https://github.com/VDA231-301/SEP1240 | Odor‑relevant material requirements | Geruchsrelevante Werkstoffanforderungen |
+https://github.com/VDA231-301/VDA_231-301__SEP_1240 | Odor‑relevant material requirements | Geruchsrelevante Werkstoffanforderungen |
 | **EN 10204**  
-https://github.com/VDA231-301/EN10204 | Digital inspection and acceptance certificates | Digitale Prüf‑ und Abnahmezeugnisse |
+https://github.com/VDA231-301/VDA_231-301__EN_10204 | Digital inspection and acceptance certificates | Digitale Prüf‑ und Abnahmezeugnisse |
 
 👉 Detailed data models, figures and examples are provided **within each subschema repository**.
 
