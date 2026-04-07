@@ -1,6 +1,6 @@
 # VDA 231‑301 – Digital Material Data Exchange
 
-**VDA 231‑301 provides a modular and standardized data model that enables reliable, machine‑readable exchange of material data between OEMs, suppliers, laboratories and IT systems, and is applicable beyond the automotive industry.**
+**VDA 231‑301 VDA 231‑301 is an open JSON‑based data standard for digital material, substance and test data exchange, enabling interoperability between OEMs, suppliers, laboratories and IT platforms across and beyond the automotive industry.**
 
 ### Quick Navigation
 
