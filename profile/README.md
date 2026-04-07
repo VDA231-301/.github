@@ -59,8 +59,8 @@ This repository ecosystem is relevant for:
 
 - OEMs and suppliers  
 - Laboratories and testing service providers  
-- Software vendors and IT platform providers  
-- Standardization and regulatory stakeholders  
+- Software vendors and IT platform providers  (PLM, QMS, LIMS)
+- Standardization and regulatory experts  
 - Non‑automotive industries with comparable processes  
 
 No prior knowledge of VDA standards is required to get started.
