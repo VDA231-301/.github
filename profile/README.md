@@ -15,26 +15,29 @@
 
 ## 🌐 About VDA 231‑301
 
-**VDA 231‑301** defines an open, standardized data model for the **digital management of material, substance and test data within material sampling and approval processes**.
+**VDA 231‑301** defines an **open, standardized, and vendor-neutral data model** for the digital management of material, substance, and test data. Originally developed to streamline **material sampling and approval processes in the automotive industry**, it has evolved into a **flexible schema for the digitalization of materials information** — easily adaptable to diverse use cases through sub-schemas.
 
 It is developed and maintained within the **VDA Project Group  
 “Digitales Werkstoff‑Datenmanagement im Bemusterungsprozess”**.
 (https://www.vda.de)
 
-The development of the VDA 231‑301 data model was supported by scientific collaboration with  
+The recommendation VDA 231‑301 benefits from scientific collaboration with  
 the **Institute for Engineering Design and Industrial Design (IKTD)**  at the **University of Stuttgart**  
 (https://www.iktd.uni-stuttgart.de).
 
 ## 🔄 Data Exchange & Interoperability
 
 VDA 231‑301 enables **consistent, machine‑readable and traceable data exchange**  
-between OEMs, suppliers, laboratories and IT systems across organizational boundaries.
+across OEMs, suppliers, laboratories and IT systems - **regardless of organizational boundaries**.
 
-To support automation and integration into heterogeneous system landscapes,  
-the data model is based on a **structured, JSON‑based format**.  
+Designed to support automation and seamless integration into heterogeneous IT landscapes, the data model is based on a **structured, JSON‑based format**.  
 
-This allows standardized validation, efficient processing and reliable reuse  
-of material data throughout the automotive value chain and beyond.
+This approach ensures:
+
+- ✅ **Standardized validation** of material data
+- ✅ **Efficient processing** across systems
+- ✅ **Reliable reuse** of data throughout **the automotive value chain and beyond**
+
 
 ---
 
