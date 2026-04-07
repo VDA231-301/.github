@@ -25,6 +25,10 @@ The recommendation VDA 231‑301 benefits from scientific collaboration with
 the **Institute for Engineering Design and Industrial Design (IKTD)**  at the **University of Stuttgart**  
 (https://www.iktd.uni-stuttgart.de).
 
+🔗 Related academic publications and research context:
+https://www.iktd.uni-stuttgart.de/forschung/publikationen/
+
+
 ## 🔄 Data Exchange & Interoperability
 
 VDA 231‑301 enables **consistent, machine‑readable and traceable data exchange**  
