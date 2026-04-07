@@ -171,6 +171,10 @@ Support and discussions are provided via:
 - GitHub Issues
 - the VDA Project Group meetings and collaboration formats
 
+
+> ⭐ If this repository is useful for your work, please consider starring it.
+> 👀 Watch the repository to stay informed about updates and releases.
+
 ---
 
 *VDA 231‑301 – enabling trusted, digital material data exchange.*
