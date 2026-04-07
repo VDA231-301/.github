@@ -22,7 +22,7 @@
 
 ---
 
-## 🌐 About VDA 231‑301
+## About VDA 231‑301
 
 **VDA 231‑301** defines an **open, standardized, and vendor-neutral data model** for the digital management of material, substance, and test data. Originally developed to streamline **material sampling and approval processes in the automotive industry**, it has evolved into a **flexible schema for the digitalization of materials information** — easily adaptable to diverse use cases through sub-schemas.
 
@@ -38,7 +38,7 @@ the **Institute for Engineering Design and Industrial Design (IKTD)**  at the **
 https://www.iktd.uni-stuttgart.de/forschung/publikationen/
 
 
-## 🔄 Data Exchange & Interoperability
+## Data Exchange & Interoperability
 
 VDA 231‑301 enables **consistent, machine‑readable and traceable data exchange**  
 across OEMs, suppliers, laboratories and IT systems - **regardless of organizational boundaries**.
@@ -47,26 +47,26 @@ Designed to support automation and seamless integration into heterogeneous IT la
 
 This approach ensures:
 
-- ✅ **Standardized validation** of material data
-- ✅ **Efficient processing** across systems
-- ✅ **Reliable reuse** of data throughout **the automotive value chain and beyond**
+- Standardized validation of material data
+- Efficient processing across systems
+- Reliable reuse of data throughout the automotive value chain and beyond
 
 
 ---
 
-## 🎯 Why VDA 231‑301?
+## Why VDA 231‑301?
 
 VDA 231‑301 supports the digital transformation of material sampling and other material relevant data by:
 
-- ✅ replacing heterogeneous documents with structured data
-- ✅ enabling automation and system interoperability
-- ✅ improving data quality, traceability and reuse
-- ✅ aligning quality, regulatory and sustainability requirements
-- ✅ providing an open, vendor‑neutral standard
+- replacing heterogeneous documents with structured data
+- enabling automation and system interoperability
+- improving data quality, traceability and reuse
+- aligning quality, regulatory and sustainability requirements
+- providing an open, vendor‑neutral standard
 
 ---
 
-## 👥 Who is this for?
+## Who is this for?
 
 This repository ecosystem is relevant for:
 
@@ -80,7 +80,7 @@ No prior knowledge of VDA standards is required to get started.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 If you are new to VDA 231‑301, follow these steps:
 
@@ -91,7 +91,7 @@ If you are new to VDA 231‑301, follow these steps:
 
 ---
 
-## 🧱 Modular Concept of VDA 231‑301
+## Modular Concept of VDA 231‑301
 
 VDA 231‑301 follows a **modular architecture**:
 
@@ -118,7 +118,7 @@ VDA 231‑301 follows a modular architecture with a stable generic core and doma
 
 ---
 
-## 🧩 Repository Overview
+## Repository Overview
 
 VDA 231‑301 is organized into **modular subschema repositories**.  
 Each subschema covers a dedicated functional or regulatory domain.
@@ -148,7 +148,7 @@ https://github.com/VDA231-301/VDA_231-301__EN_10204 | Digital inspection and acc
 
 ---
 
-## 🤝 Governance & Contribution
+## Governance & Contribution
 
 VDA 231‑301 is developed collaboratively within VDA structures.
 
@@ -165,7 +165,7 @@ Please see the respective
 
 ---
 
-## 🔒 Stability & Versioning
+## Stability & Versioning
 
 Released versions of subschemas are **immutable**.
 
@@ -176,7 +176,7 @@ This provides **planning security for long‑term system integrations**.
 
 ---
 
-## 📨 Contact & Support
+## Contact & Support
 
 Discussions are intended for general questions and exchange. There is no individual support email.
 
