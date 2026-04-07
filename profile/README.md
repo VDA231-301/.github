@@ -1,6 +1,15 @@
 # VDA 231‑301 – Digital Material Data Exchange
 
+
+**Keywords / Topics:**  
+`JSON Schema` · `Material Data` · `Digital Standards` · `Interoperability` ·  
+`Automotive` · `OEM Supplier Data Exchange` · `PLM` · `QMS` · `LIMS` ·  
+`Quality Management` · `Regulatory Compliance` 
+
+
 **VDA 231‑301 VDA 231‑301 is an open JSON‑based data standard for digital material, substance and test data exchange, enabling interoperability between OEMs, suppliers, laboratories and IT platforms across and beyond the automotive industry.**
+
+
 
 ### Quick Navigation
 
